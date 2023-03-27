@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&family=Oxygen:wght@300&family=Peddana&family=Piazzolla:opsz,wght@8..30,200;8..30,300;8..30,400;8..30,900&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+        font-family: 'Peddana', sans-serif;
+        font-size: 25px;
+        color: #02ff28;
+        background: black;
+        background-image: url(hacker.jpg)
+}
+#text{
+    text-align: center;
+}
